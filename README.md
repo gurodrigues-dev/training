@@ -1,3 +1,5 @@
+- Este repositório foi recem excluído por motivos de segurança. Infelizmente, acabei violando algumas diretrizes de empresas e tive de excluir cerca de 200 commits anteriores. Uma pena, mas aqui está sua reconstrução totalmente limpa e regenerada. =)
+
 ## Quais são minhas necessidades atuais
 
 - ~~Preciso entender as aplicações com containers~~
