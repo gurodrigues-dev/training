@@ -1,0 +1,9 @@
+[distros]
+
+172.104.20.126
+172.104.20.176
+
+[distros:vars]
+
+ansible_user=root
+ansible_passowrd=testans123

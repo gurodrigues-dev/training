@@ -1,0 +1,5 @@
+scrape_configs:
+  - job_name: 'jenkins'
+    metrics_path: /prometheus
+    static_configs:
+      - targets: ['45.232.197.64:8080']

@@ -1,0 +1,2 @@
+# Configuração do Ansible
+> Anteriormente nunca tinha mexido com Ansible, então tentei subir algumas máquinas para serem "orquestradas" pelo Ansible. Então estou utilizando esse MD para mostrar os passos que segui para instrumentar o Ansible
