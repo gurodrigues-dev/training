@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: primeiro-pod-declarativo
+spec:
+  containers:
+  - name: nginx-container
+    image: nginx:stable
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
