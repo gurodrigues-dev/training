@@ -161,3 +161,8 @@ kubectl delete -f primeiro-pod.yaml
 
 # Services
 
+Visando que o IP dos pods podem se alterar sempre, como então a nivel de codigo fariamos para que o apontamento se mantenha. Para isso servem os services eles que fazem as comunicações entre pods, e claro possuem ip fixo.
+Além disso eles também pode referenciar o NodePort e fazer o balanceamente de carga dos Pods (Load Balancer)
+
+#### Criando um Cluster IP
+
